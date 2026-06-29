@@ -33,7 +33,7 @@ import os
 target_taxon = "Magnoliopsida"
 
 # Where to put downloaded genome zip files.
-output_directory = "data/hifi_angiosperm_genomes"
+output_directory = "hifi_angiosperm_genomes"
 
 # Substrings (lowercased) that we treat as evidence of a HiFi assembly.
 # Matched against BOTH the sequencing-tech and assembly-method text.
